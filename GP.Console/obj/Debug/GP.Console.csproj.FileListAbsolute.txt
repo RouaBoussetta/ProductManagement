@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\bin\Debug\GP.Console.exe.config
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\bin\Debug\GP.Console.exe
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\bin\Debug\GP.Console.pdb
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\obj\Debug\GP.Console.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\obj\Debug\GP.Console.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\obj\Debug\GP.Console.exe
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\obj\Debug\GP.Console.pdb
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\bin\Debug\GP.Domain.dll
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\bin\Debug\GP.Domain.pdb
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Console\obj\Debug\GP.Console.csproj.CopyComplete

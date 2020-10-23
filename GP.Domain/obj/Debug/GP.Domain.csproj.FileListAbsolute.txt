@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\bin\Debug\GP.Domain.dll
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\bin\Debug\GP.Domain.pdb
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\obj\Debug\GP.Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\obj\Debug\GP.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\obj\Debug\GP.Domain.dll
+C:\Users\Lenovo\source\repos\GestionProduit\GP.Domain\obj\Debug\GP.Domain.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\GestionProduits\Services\bin\Debug\Services.dll
+C:\Users\User\source\repos\GestionProduits\Services\bin\Debug\Services.pdb
+C:\Users\User\source\repos\GestionProduits\Services\bin\Debug\GP.domaine.dll
+C:\Users\User\source\repos\GestionProduits\Services\bin\Debug\GP.domaine.pdb
+C:\Users\User\source\repos\GestionProduits\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GestionProduits\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GestionProduits\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\User\source\repos\GestionProduits\Services\obj\Debug\Services.dll
+C:\Users\User\source\repos\GestionProduits\Services\obj\Debug\Services.pdb

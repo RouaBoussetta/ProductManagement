@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\GestionProduits\GP.domaine\bin\Debug\GP.domaine.dll
+C:\Users\User\source\repos\GestionProduits\GP.domaine\bin\Debug\GP.domaine.pdb
+C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\GP.domaine.dll
+C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\GP.domaine.pdb

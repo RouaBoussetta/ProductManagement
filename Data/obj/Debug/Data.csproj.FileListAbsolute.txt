@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\Data.dll.config
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\Data.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\Data.pdb
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\GP.domaine.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\GP.domaine.pdb
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\GP.domaine.dll.config
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.pdb
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.initialCreate.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csproj.GenerateResource.cache

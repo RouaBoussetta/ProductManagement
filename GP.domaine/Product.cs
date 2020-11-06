@@ -15,7 +15,9 @@ namespace Domain
         public double Price { get; set; }
         public int Quantity { get; set; }
         public Category category { get; set; }
-        public List<Provider> providers { get; set; }
+        public int? CategoryId { get; set; }
+        public virtual ICollection<Provider> providers { get; set; }
+        public string Image { get; set; }
 
         public Product(string name, DateTime dateProd, string description, double price, int quantity)
         {
@@ -34,6 +36,8 @@ namespace Domain
         {
             return "Nameg= " +Name+ ", DateProd= "+ DateProd+ ", Description= "+Description+ ", Quantity= "+Quantity ;
         }
+
+        
 
         public virtual void GetMyType()
         {

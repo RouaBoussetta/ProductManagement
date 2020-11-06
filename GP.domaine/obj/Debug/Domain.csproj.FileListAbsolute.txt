@@ -4,3 +4,15 @@ C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\Domain.csprojAss
 C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\GP.domaine.dll
 C:\Users\User\source\repos\GestionProduits\GP.domaine\obj\Debug\GP.domaine.pdb
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\GP.domaine.dll.config
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\GP.domaine.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\GP.domaine.pdb
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\obj\Debug\GP.domaine.dll
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\GP.domaine\obj\Debug\GP.domaine.pdb

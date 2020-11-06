@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public sealed class Provider : Concept
+    public  class Provider : Concept
     {
         public int Id { get; set; }
         public string UserName { get; set; }
@@ -42,7 +42,7 @@ namespace Domain
         public string Email { get; set; }
         public DateTime DateCreated { get; set; }
         public bool IsApproved { get; set; }
-        public List<Product> Products { get; set; }
+        public virtual ICollection<Product> Products { get; set; }
 
         public override string ToString()
         {
@@ -97,15 +97,15 @@ namespace Domain
                         Console.WriteLine(p);
                     }
                     break;
-                case "DateProd":
-                    foreach (Product p in Products)
-                    {
-                        if (p.DateProd== (DateTime.Parse(filterValue)))
-                            Console.WriteLine(p);
-                    }
-                    break;
+                      case "DateProd":
+                          foreach (Product p in Products)
+                          {
+                              if (p.DateProd== (DateTime.Parse(filterValue)))
+                                  Console.WriteLine(p);
+                          }
+                          break;
             }
-                
+
         }
 
 

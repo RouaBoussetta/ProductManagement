@@ -15,3 +15,5 @@ C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.dll
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.pdb
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.initialCreate.resources
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.Adresse.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.DateConvention.resources

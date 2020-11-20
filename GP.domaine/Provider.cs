@@ -3,17 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace Domain
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;namespace Domain
 {
-    public  class Provider : Concept
+    public  class Provider 
     {
+        [Key]
         public int Id { get; set; }
         public string UserName { get; set; }
         //public string Password { get; set; }
 
         private string password;
-
+        [DataType(DataType.Password)]
+        [MinLength(8)]
+        [Required]
         public string Password
         {
             get { return password;  }
@@ -27,7 +30,10 @@ namespace Domain
         }
         //public string ConfirmPassword { get; set; }
         private string confirmPassword;
-
+        [DataType(DataType.Password)]
+        [NotMapped]
+        [Required]
+        [Compare("Password")]
         public string ConfirmPassword
         {
             get { return confirmPassword; }
@@ -39,6 +45,9 @@ namespace Domain
                     Console.WriteLine("le mot de passe est différent du confirmPassword");
             }
         }
+
+        [Required]
+        [EmailAddress]
         public string Email { get; set; }
         public DateTime DateCreated { get; set; }
         public bool IsApproved { get; set; }

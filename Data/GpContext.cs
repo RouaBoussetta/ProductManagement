@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using Data.CustomConvention;
-
+using Data.Configurations;
 
 namespace Data
 {
@@ -27,6 +27,11 @@ namespace Data
 
             modelBuilder.Conventions.Add(new DateTypeConvention());
             modelBuilder.Conventions.Add(new KeyConvention());
+            modelBuilder.Configurations.Add(new CategoryConfiguration());
+            modelBuilder.Configurations.Add(new ProductConfiguration());
+            modelBuilder.Configurations.Add(new AdresseConfiguration());
+           // modelBuilder.Entity<Chemical>().Map(ch => ch.ToTable("Chemicals").MapInheritedProperties());
+           // modelBuilder.Entity<Biological>().Map(ch => ch.ToTable("Biologicals").MapInheritedProperties());
 
 
 

@@ -17,3 +17,7 @@ C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migration
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.csproj.GenerateResource.cache
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.Adresse.resources
 C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.DateConvention.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.Annotations.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.Configurations.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.TPH.resources
+C:\Users\Lenovo\Documents\GitHub\ProductManagement\Data\obj\Debug\Data.Migrations.TPT.resources

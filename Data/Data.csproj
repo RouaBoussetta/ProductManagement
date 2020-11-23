@@ -53,6 +53,9 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Class2.cs" />
+    <Compile Include="Configurations\AdresseConfiguration.cs" />
+    <Compile Include="Configurations\CategoryConfiguration.cs" />
+    <Compile Include="Configurations\ProductConfiguration.cs" />
     <Compile Include="CustomConvention\DateTypeConvention.cs" />
     <Compile Include="CustomConvention\KeyConvention.cs" />
     <Compile Include="GpContext.cs" />
@@ -67,6 +70,18 @@
     <Compile Include="Migrations\202011192315488_DateConvention.cs" />
     <Compile Include="Migrations\202011192315488_DateConvention.designer.cs">
       <DependentUpon>202011192315488_DateConvention.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011200802506_Annotations.cs" />
+    <Compile Include="Migrations\202011200802506_Annotations.designer.cs">
+      <DependentUpon>202011200802506_Annotations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011200915004_Configurations.cs" />
+    <Compile Include="Migrations\202011200915004_Configurations.designer.cs">
+      <DependentUpon>202011200915004_Configurations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202011200925215_TPH.cs" />
+    <Compile Include="Migrations\202011200925215_TPH.designer.cs">
+      <DependentUpon>202011200925215_TPH.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -90,6 +105,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202011192315488_DateConvention.resx">
       <DependentUpon>202011192315488_DateConvention.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011200802506_Annotations.resx">
+      <DependentUpon>202011200802506_Annotations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011200915004_Configurations.resx">
+      <DependentUpon>202011200915004_Configurations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202011200925215_TPH.resx">
+      <DependentUpon>202011200925215_TPH.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

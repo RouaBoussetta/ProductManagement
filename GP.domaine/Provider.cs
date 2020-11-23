@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;namespace Domain
+using System.ComponentModel.DataAnnotations.Schema;
+namespace Domain
 {
     public  class Provider 
     {
@@ -82,19 +83,7 @@ using System.ComponentModel.DataAnnotations.Schema;namespace Domain
             isApproved = string.Compare(password, confirmPassworf) == 0;
         }
 
-        public override void GetDetails()
-        {
-            Console.WriteLine("Nom provider: "+UserName);
-            /*for(int i=0; i<Products.Count; i++)
-            {
-                Console.WriteLine(Products.ElementAt(i));
-            }*/
-            foreach(Product p in Products)
-            {
-                Console.WriteLine(p);
-            }
-        }
-
+       
         public void GetProducts(string filterType, string filterValue)
         {
             switch (filterType)
